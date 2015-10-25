@@ -1,0 +1,1 @@
+We design an RFID reader based on a TRF7960 chip and a MSP430 by TI
